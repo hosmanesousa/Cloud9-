@@ -1,0 +1,25 @@
+i.icon {
+    font-size: 2em; /* Double the size of the container */
+}
+
+/* Something that has both of these classes container and main */
+.container.main {
+    margin-top: 7.0em;
+}
+
+.smaller {
+    max-width: 20%;
+}
+
+/*
+  
+        <input type ="text" name = "blog[title]" placeholder="title">
+        <input type ="text" name = "blog[image]" placeholder="image">
+        <input type ="text" name = "blog[body]" placeholder="blog post goes here">
+        <input type ="submit">
+
+*/
+
+#delete {
+    display: inline;
+}
